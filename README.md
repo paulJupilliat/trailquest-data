@@ -16,7 +16,10 @@ hex/<id-h3>/sat.jpg         orthophoto de la même fenêtre, nord en haut
 
 Un hexagone est une cellule [H3](https://h3geo.org) de résolution 6 (environ 35 km²). Le relief et l'orthophoto couvrent une fenêtre carrée centrée sur l'hexagone, de `half` mètres de chaque côté.
 
-Couverture actuelle : 28 km autour du Grand-Bornand (Haute-Savoie), soit 71 hexagones.
+Couverture actuelle : 131 hexagones.
+
+- 28 km autour du Grand-Bornand (Haute-Savoie) : 71 hexagones
+- 25 km autour d'Orléans (Loiret) : 60 hexagones
 
 ## Sources et licences
 
